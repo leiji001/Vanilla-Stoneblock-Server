@@ -1,0 +1,12 @@
+/.fabric
+/libraries
+/logs
+/versions
+/eula.txt
+/banned*
+/ops.json
+/usercache.json
+/whitelist.json
+/world
+/startserver.bat
+/startserver.sh
